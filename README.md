@@ -6,7 +6,7 @@ Simple random user generator. Utilized https://randomuser.me/api API for this pr
 
 HTML, CSS, JS
 
-## Check the full-functioning site at: https://0xkiichiro.github.io/habit-tracker/
+## Check the full-functioning site at: https://0xkiichiro.github.io/api/
 
 ![](https://github.com/0xkiichiro/api/blob/master/Animation.gif)
 
