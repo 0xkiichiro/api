@@ -8,7 +8,7 @@ HTML, CSS, JS
 
 ## Check the full-functioning site at: https://0xkiichiro.github.io/habit-tracker/
 
-![]()
+![](https://github.com/0xkiichiro/api/blob/master/Animation.gif)
 
 ## Comments
 
